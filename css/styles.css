@@ -101,6 +101,7 @@ header nav ul li:last-of-type a{
     max-width: 571px;
     margin: auto;
     text-align: center;
+    padding-top: 113px;
 }
 .help_with h2{
     font-family: 'Poppins';
