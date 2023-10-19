@@ -23,8 +23,7 @@ header nav ul li:first-of-type{
     margin-right: 24px;
 }
 header nav li a{
-    font-family: 'Poppins';
-    font-style: normal;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 15px;
     line-height: 20px;
@@ -35,8 +34,7 @@ header nav ul li:first-of-type a{
     font-size: 12px;
 }
 header nav ul li:last-of-type a{
-    font-family: 'Poppins';
-    font-style: normal;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
@@ -62,8 +60,7 @@ header nav ul li:last-of-type a{
     text-align: center;
 }
 .main_banner h3{
-    font-family: 'Poppins';
-    font-style: normal;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 14px;
     line-height: 20px;
@@ -73,8 +70,7 @@ header nav ul li:last-of-type a{
     color: #C0C0C0;
 }
 .main_banner h1{
-    font-family: 'Poppins';
-    font-style: normal;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 54px;
     line-height: 59px;
@@ -83,8 +79,7 @@ header nav ul li:last-of-type a{
     margin-bottom: 18px;
 }
 .main_banner p{
-    font-family: 'Poppins';
-    font-style: normal;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 14px;
     line-height: 20px;
@@ -105,8 +100,7 @@ header nav ul li:last-of-type a{
     padding-bottom: 217px;
 }
 .help_with h2{
-    font-family: 'Poppins';
-    font-style: normal;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 40px;
     line-height: 42px;
@@ -116,8 +110,7 @@ header nav ul li:last-of-type a{
     margin-bottom: 15px;
 }
 .help_with h4{
-    font-family: 'Poppins';
-    font-style: normal;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 24px;
     line-height: 30px;
@@ -146,4 +139,50 @@ header nav ul li:last-of-type a{
     background-color: #000;
     border-radius: 50%;
     margin-right: 5px;
+}
+.portfolio_block{
+    background-image: url("../images/Frame.jpg");
+    background-size: cover;
+    min-height: 600px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.portfolio_block article{
+    max-width: 298px;
+    margin-right: 62px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.portfolio_block2{
+    background-image: url("../images/IMAGE 2.jpeg");
+    background-size: cover;
+    min-height: 600px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.portfolio_block2 article{
+    max-width: 298px;
+    margin-right: 62px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.portfolio_block3{
+    background-image: url("../images/IMAGE 3.jpeg");
+    background-size: cover;
+    min-height: 600px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.portfolio_block3 article{
+    max-width: 298px;
+    margin-right: 62px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: white;
+    Line-height: 20px;
 }
